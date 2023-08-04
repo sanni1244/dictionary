@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dictionary-React/static/css/main.31d6cfe0.css",
+    "main.js": "/dictionary-React/static/js/main.88ea2893.js",
+    "static/js/787.051eb2ca.chunk.js": "/dictionary-React/static/js/787.051eb2ca.chunk.js",
+    "index.html": "/dictionary-React/index.html",
+    "main.88ea2893.js.map": "/dictionary-React/static/js/main.88ea2893.js.map",
+    "787.051eb2ca.chunk.js.map": "/dictionary-React/static/js/787.051eb2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.88ea2893.js"
+  ]
+}
